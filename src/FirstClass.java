@@ -10,12 +10,12 @@ public class FirstClass {
         double average = (10 + 9.6 + 6.0) / 3;
         System.out.println(average);
         String synopsis;
-        synopsis = """ 
-                    Al Pacino 
-                    in the war 
-                    against communist
-                    Launch of the work
-                     """ + release_year;
+        synopsis = """
+                Al Pacino
+                in the war
+                against communist
+                Launch of the work
+                 """ + release_year;
         System.out.println(synopsis);
 
         int classification;
