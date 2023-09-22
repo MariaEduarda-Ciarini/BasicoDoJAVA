@@ -1,6 +1,6 @@
 public class temperature {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         double temperatureInCelsius = 30.4;
         double temperatureInFahrenheit = (temperatureInCelsius * 1.8) + 32;
 
